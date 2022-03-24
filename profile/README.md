@@ -1,1 +1,1 @@
-<h1>YRC TECH</h1>
+<h1 align="center">YRC TECH</h1>
